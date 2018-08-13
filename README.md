@@ -1,0 +1,2 @@
+# testci
+try ci
